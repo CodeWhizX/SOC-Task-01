@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Thu Nov  5 11:35:40 2026 as: /usr/lib/nmap/nmap -sS -oN /home/rowan/SOC-Task-01/scan-results.txt 192.168.50.0/24
+Nmap scan report for 192.168.50.1
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.50.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 52:54:00:12:35:00 (QEMU virtual NIC)
+
+# Nmap done at Thu Nov  5 11:39:27 2026 -- 256 IP addresses (1 host up) scanned in 227.25 seconds
